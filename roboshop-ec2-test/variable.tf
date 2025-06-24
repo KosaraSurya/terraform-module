@@ -8,7 +8,7 @@ variable "tags" {
 }
 
 variable "security_group_ids" {
-    default = ["sg-0ccba06af95f41fdb"]
+    default = ["sg-0e357cdf3695bf2f9"]
 }
 
 variable "instance_type" {
